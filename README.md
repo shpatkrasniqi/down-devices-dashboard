@@ -13,11 +13,7 @@ cd down-devices-dashboard-KL
 python -m venv env
 
 ```
-In Unix system:
-```
-source venv/bin/activate
 
-```
 In Windows: 
 
 ```
